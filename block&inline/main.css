@@ -6,6 +6,8 @@ span{
     background:orangered;
     width: auto;
     height: auto;
+    display: block;
+    /* 인라인요소를 블록요소로 바꿈 */
 }
 
 div{
@@ -14,4 +16,6 @@ div{
     height:30px;
     margin: 20px;
     padding: 20px;
+    display: inline;
+    /* 블록요소를 인라인요소로 바꿈 */
 }
