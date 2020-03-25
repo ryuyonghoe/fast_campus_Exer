@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding:0;
+}
+span{
+    background:orangered;
+    width: auto;
+    height: auto;
+}
+
+div{
+    background: gold;
+    width:120px;
+    height:30px;
+    margin: 20px;
+    padding: 20px;
+}
