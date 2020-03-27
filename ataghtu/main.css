@@ -1,0 +1,19 @@
+a{
+    font-weight: bold;
+    width: 100px;
+    line-height: 40px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+
+a:hover{
+    background-color: aquamarine;
+}
+h2{
+    font-size: 30px;
+    padding-bottom: 1000px;
+}
